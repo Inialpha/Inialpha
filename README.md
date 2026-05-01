@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Inimfon Ebong</h1>
-<h3 align="center">I am a passionate fullstack developer with expertise in the following technologies: backend - C and Python. Frontend - HTML, CSS and JavaScript. Database - MySQL I'm interested in innovative and life improving technologies with special interest in artificial intelligence.</h3>
+
+<h3 align="center">
+I am a fullstack developer with a strong focus on backend engineering, working with C, Python (FastAPI, Flask, Django), Java, Kotlin, PHP, and Swift to build robust and scalable systems. On the frontend, I develop responsive interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS. I have experience with both relational and non-relational databases, including MySQL and MongoDB, as well as in-memory data stores like Redis for performance optimization. I am particularly interested in building impactful, real-world solutions, with a growing focus on artificial intelligence and data-driven applications.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inialpha&label=Profile%20views&color=0e75b6&style=flat" alt="inialpha" /> </p>
 
